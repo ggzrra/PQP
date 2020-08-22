@@ -1,0 +1,96 @@
+#EXTM3U
+
+########### ENTRETERIMENTO ###########
+
+#EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO",VIVA
+https://cdn.esporteone.com/VIVA/tracks-v1a1/mono.m3u8?token=6da2ccb40a6adcea48a2d9dc4c9e9b54b2f28072-b77a314a89683285b8d39818b970e5ff-1598074761-1598072661
+
+#EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO",MULTISHOW
+https://cdn.esporteone.com/MULTISHOW/tracks-v1a1/mono.m3u8?token=530fd8e723c7d35447a6d23fe42a674acc9fe8eb-1dbe097fca5adecd2b662aa0097cfc1c-1598075678-1598073578
+
+#EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO",MTV
+https://geralorigin.eu-central-1.edge.mycdn.live/mylive/mtvsd/video.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO",NAT GEO
+https://cdn.esporteone.com/NATGEO/tracks-v1a1/mono.m3u8?token=08ae415c1e6d2577a8fefd4b0ce07c2a0e7b9495-402c1d9a14c34e7a3358d7a3595c53d6-1598075522-1598073422
+
+#EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO",COMEDY CENTRAL
+https://cdn.esporteone.com/COMEDY/tracks-v1a1/mono.m3u8?token=296eebe96a9cd6ae40061add812dfdbb1a5aba68-5fdf571daed4e7ce0e36046773372c0d-1598075755-1598073655
+
+#EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO",TLC
+https://cdn.esporteone.com/TLC/tracks-v1a1/mono.m3u8?token=cef2d2bf7d870826d19dc7cb716169c5997185d1-1b277be18129b40015f52b0d11c1dd39-1598075872-1598073772
+
+########### DESENHOS ###########
+
+#EXTINF:-1 tvg-logo="" group-title="DESENHOS",NICK
+https://cdn.esporteone.com/NICK/tracks-v1a1/mono.m3u8?token=05123e8fad7c2f6778160ce91c72560f3059ccde-62732673767fd41f35def936151ade57-1598076174-1598074074
+
+#EXTINF:-1 tvg-logo="" group-title="DESENHOS",CARTOON NETWORK
+https://cdn.esporteone.com/CARTOON/tracks-v1a1/mono.m3u8?token=c903c338dc174740c8e3f34e4e1a1b79ad923edf-3c3b4fe98761544e4f8efbb762275fd9-1598076272-1598074172
+
+#EXTINF:-1 tvg-logo="" group-title="DESENHOS",BOOMERANG
+https://cdn.esporteone.com/BOOMERANG/tracks-v1a1/mono.m3u8?token=e58546af67cde9b3e7c8ce29ee45155ba433a441-c9c3ffc47b8aa3a5fa9429cc4cc723cf-1598076346-1598074246
+
+############ FILMES E SERIES ########
+
+#EXTINF:-1 tvg-logo="" group-title="FILMESESERIES",FOX
+https://cdn.esporteone.com/FOX/tracks-v1a1/mono.m3u8?token=ab57baf37904847ca570a567be5c0190b52d68d7-3290d200bdbd6a8a9dc87a524722560f-1598078177-1598076077
+
+#EXTINF:-1 tvg-logo="" group-title="FILMESESERIES",WARNER TV
+https://cdn.esporteone.com/WARNER/tracks-v1a1/mono.m3u8?token=f8139ef4e722f1855c4e962995a8e657055bd458-bff62a03a14a993e0d7730db8d65078f-1598078264-1598076164
+
+#EXTINF:-1 tvg-logo="" group-title="FILMESESERIES",SONY
+https://cdn.esporteone.com/SONY/tracks-v1a1/mono.m3u8?token=f25f1e0a4f58da9cb37c5c9f3144097899819679-d907514c3570f2667005bec55aa7e60e-1598076067-1598073967
+
+#EXTINF:-1 tvg-logo="" group-title="FILMESESERIES",FOX PREMIUM
+https://cdn.esporteone.com/FOXPREMIUM/tracks-v1a1/mono.m3u8?token=254d7f40139826730df34a0b7c721e1cbcf4e276-1e72c900c7db2f503ce772a9eddf0c7f-1598076561-1598074461
+
+#EXTINF:-1 tvg-logo="" group-title="FILMESESERIES",UNIVERSAL
+https://cdn.esporteone.com/UNIVERSAL/tracks-v1a1/mono.m3u8?token=923d20332cf0aa5beb9cb2c3cb28cd76699391cc-94e3247c536445cb80814be70c59e995-1598076625-1598074525
+
+#EXTINF:-1 tvg-logo="" group-title="FILMESESERIES",AXN
+https://cdn.esporteone.com/AXN/tracks-v1a1/mono.m3u8?token=9681eff1e62b31ae8a05d1867b6bbbf44e6405d9-ab2c80eea8986ea7914d7f08970bdcbf-1598076767-1598074667
+
+#EXTINF:-1 tvg-logo="" group-title="FILMESESERIES",FX
+https://cdn.esporteone.com/FX/tracks-v1a1/mono.m3u8?token=94b18d9c023935c26ca0b3b1cd6b0b53d504179d-7f3c596e90bf4564764115afbfb183fd-1598076804-1598074704
+
+#EXTINF:-1 tvg-logo="" group-title="FILMESESERIES",MEGAPIX
+https://cdn.esporteone.com/MEGAPIX/tracks-v1a1/mono.m3u8?token=910f3a24d7ea4182c0874cc3565097e9324a9d87-a3c1c889fd01c021150761ad35a4d4c2-1598076865-1598074765
+
+#EXTINF:-1 tvg-logo="" group-title="FILMESESERIES",TNT
+https://cdn.esporteone.com/TNT/tracks-v1a1/mono.m3u8?token=4a8ba4f5bac607a4700b55831c20b59dbfa7ec21-0c32048fcc6d7e7e6124997d4852b7c8-1598076911-1598074811
+
+#EXTINF:-1 tvg-logo="" group-title="FILMESESERIES",TNT SERIES
+https://cdn.esporteone.com/TNTSERIES/tracks-v1a1/mono.m3u8?token=2fb58c0067e84b374de86924ee086cc69604f4d3-a91a040fc57aae1acf212eda082f9eda-1598076947-1598074847
+
+#EXTINF:-1 tvg-logo="" group-title="FILMESESERIES",TELECINE ACTION
+https://cdn.esporteone.com/TELECINEACTION/tracks-v1a1/mono.m3u8?token=a6458f1661e09335cf43afbcb409814a4a9b65b1-4fb50a0369cf957eac22252b46a66ec8-1598077086-1598074986
+
+#EXTINF:-1 tvg-logo="" group-title="FILMESESERIES",TELECINE PREMIUM
+https://cdn.esporteone.com/TELECINEPREMIUM/tracks-v1a1/mono.m3u8?token=d09a6ca88de66a81ad9f062fa91ad4a56e516145-5c60a5c9488ad703562996f8bf787048-1598077132-1598075032
+
+#EXTINF:-1 tvg-logo="" group-title="FILMESESERIES",TELECINE PIPOCA
+https://cdn.esporteone.com/TELECINEPIPOCA/tracks-v1a1/mono.m3u8?token=1e312f9fc53634c102b3d7d2e44382b15d1a0f34-e97b35ec4d86db0f98406d41e6b5fae0-1598077177-1598075077
+
+#EXTINF:-1 tvg-logo="" group-title="FILMESESERIES",CANAL BRASIL
+https://streaming.belugacdn.link/a/hls1/canalbrasil.m3u8?expires=1598104405&token=a5ab0a27d6cb305b3ea3118d4c672800
+
+######### ESPORTES #########
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",SPORTV
+https://live.esporteflix.com/SPORTV/tracks-v1a1/mono.m3u8?token=3c379c333af887a6a088c4e52db2b7dc7a82f01b-148359e338e01709a84b82cdc1368be0-1598077630-1598075530
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",SPORTV 2
+https://live.esporteflix.com/SPORTV2/tracks-v1a1/mono.m3u8?token=7b21de4a85f50619e2487875d282176d5233b12c-b4a8ae242be0ee501dc3e61ecd138d68-1598077675-1598075575
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",SPORTV 3
+https://live.tvfolha.com/SPORTV3/tracks-v1a1/mono.m3u8?token=6d28cf18e46dc8e362b0a604e725ad7fc7a279aa-82f05496bc386df53c946bce195de150-1598077746-1598075646
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",ESPN
+https://playplusespn-lh.akamaihd.net/i/pp_espn@374460/index_360_av-b.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",ESPN BRASIL
+https://playplusespn-lh.akamaihd.net/i/pp_espnbra@374460/index_360_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",COMBATE
+https://live.tvfolha.com/COMBATE/tracks-v1a1/mono.m3u8?token=620b30e902cf9164a007011bf64dbee4a5bfd4d7-854bce1af4ab246fccfbd79d98192751-1598077995-1598075895
