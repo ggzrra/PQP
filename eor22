@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO",MTV 1 br
-https://onair.cds.nowonline.com.br/Content/dsc/Live/Channel(SPOMTVHD)/stream_0/Segment-2998882963203333.m4v
+#EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO",fazenda 1 
 
-#EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO",MTV 2 hd ingles
-https://cdn.esporteone.com/MTV/video.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO",MTV 3 sd ingles
-https://live.esporteflix.com/MTVSD/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO",fazenda 2
+
+
+#EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO",fazenda 3 
+https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master_360.m3u8
