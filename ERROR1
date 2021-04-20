@@ -1,16 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO", CAM PRINC SD
-https://cdn.esporteone.com/BBB1SD/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO", viva 1
+https://cdn.esporteone.com/VIVASD/video.m3u8?md5=CFl84jpo-fNov5o6ophzhg&expires=1618950450
 
-#EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO",CAM CORDEL SD
-https://cdn.esporteone.com/BBB1SD/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO", viva 2
+https://cdn.esporteone.com/VIVAHD/video.m3u8?md5=-yKXZRS7aEjtv-9JxSmTyw&expires=1618950505
 
-#EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO", CAM COLOR SD
-https://cdn.esporteone.com/BBB1SD/video.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO", 
 
-#EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO", CAM EXTRA 1
-https://cdn.esporteone.com/BBB1SD/video.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO", 
+
 
 #EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO",
 
