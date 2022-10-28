@@ -1,10 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO",comedy central
-<iframe name=Player "" src="https://sinalpublico.com/player3/ch.php?canal=comedycentral" frameborder=0 height=400 scro
+<iframe src="https://sinalpublico.com/player3/ch.php?canal=comedycentral" style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"> </iframe>
 
 #EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO", canal br
-<iframe name=Player "" src="https://sinalpublico.com/player3/ch.php?canal=canalbrasil" frameborder=0 height=400 scrolling=no width=640 allowFullScreen> </iframe>
+https://sinalpublico.com/player3/ch.php?canal=canalbrasil
 
 #EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO",Multishow
 <iframe name=Player "" src="https://sinalpublico.com/player3/ch.php?canal=multishow" frameborder=0 height=400 scrolling=no width=640 allowFullScreen> </iframe>
