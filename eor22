@@ -1,10 +1,13 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO",fazenda 1 
+#EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO",comedy central
+<iframe name=Player "" src="https://sinalpublico.com/player3/ch.php?canal=comedycentral" frameborder=0 height=400 scro
 
+#EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO", canal br
+<iframe name=Player "" src="https://sinalpublico.com/player3/ch.php?canal=canalbrasil" frameborder=0 height=400 scrolling=no width=640 allowFullScreen> </iframe>
 
-#EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO",fazenda 2
+#EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO",Multishow
+<iframe name=Player "" src="https://sinalpublico.com/player3/ch.php?canal=multishow" frameborder=0 height=400 scrolling=no width=640 allowFullScreen> </iframe>
 
-
-#EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO",fazenda 3 
-https://amd01eng.akamaized.net/hls/live/2008102/fazenda/master_360.m3u8
+#EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO", viva
+<iframe name=Player "" src="https://sinalpublico.com/player3/ch.php?canal=viva" frameborder=0 height=400 scrolling=no width=640 allowFullScreen> </iframe>
