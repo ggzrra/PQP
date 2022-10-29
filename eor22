@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO",comedy central
-<iframe src="https://sinalpublico.com/player3/ch.php?canal=comedycentral" style="position:fixed; top:0px; left:0px; bottom:0px; right:0px; width:100%; height:100%; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;"> </iframe>
+https://m3u9.ml/a2/hls1/comedycentral.m3u8?mu3zAQc9HC3GbwJq=Puv2XzH3QHN-VA4sRDKTtA&3U1G7qaTxrPbalZnEx=1667030102
 
 #EXTINF:-1 tvg-logo="" group-title="ENTRETERIMENTO", canal br
 https://sinalpublico.com/player3/ch.php?canal=canalbrasil
